@@ -1,4 +1,4 @@
-# Arplane Recipt 
+# Arplane Receipt 
 - Please edit properties before use
 ## Download 
 - App: [Click Here!](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-app.html)
