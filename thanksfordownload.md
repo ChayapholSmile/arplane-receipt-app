@@ -1,5 +1,5 @@
 ## Thank you for download Arplane software!!
-### Feautures
+### Features
 - No virus
 - No hacking
 - No connect internet
