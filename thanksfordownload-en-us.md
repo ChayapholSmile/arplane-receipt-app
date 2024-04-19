@@ -4,4 +4,4 @@ Download in soon possible, Please be patient
 - No virus
 - No hacking
 - No connect internet
-<meta http-equiv="refresh" content="10; url=https://chayapholsmile.github.io/arplane-recipt-app/en-us">
+<meta http-equiv="refresh" content="10; url=https://chayapholsmile.github.io/arplane-receipt-app/en-us">
