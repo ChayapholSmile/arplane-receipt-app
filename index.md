@@ -5,4 +5,4 @@
 - Developing Thai Language Pack
 - Please wait for 2 weeks
  
- <meta http-equiv="refresh" content="10; url=https://chayapholsmile.github.io/arplane-recipt-app/Arplane Recipt 1.0.zip">
+ <meta http-equiv="refresh" content="10; url=https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload.html">
