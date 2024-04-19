@@ -5,7 +5,7 @@
 ## Language Pack (Necessary files)
 ### English Language
 - [App Language](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-en-us.html)
-- [Recipt Language](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-b-en-us.html)
+- [Receipt Language](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-b-en-us.html)
 ### Thai Language
 - [App Language](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-th-th.html)
 - [Receipt Language](https://chayapholsmile.github.io/arplane-recipt-app/thanksfordownload-b-th-th.html)
