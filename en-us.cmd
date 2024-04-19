@@ -1,0 +1,10 @@
+set tran1=Company Name
+set tran2=Cashier
+set tran3=Receipt Number
+set tran4=Product Name
+set tran5=Quality
+set tran6=Add More?
+set tran7=All price
+set tran8=Get
+set tran9=Successfully
+set tran10=Change
