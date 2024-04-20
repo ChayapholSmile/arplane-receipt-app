@@ -35,3 +35,6 @@
 - <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iNoIkoLDoak?si=vC4RNQ_OvKaeEFIf&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### How to install language pack?
 - <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e1FrNEYo6uU?si=vC4RNQ_OvKaeEFIf&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### User Manual
+- [English](https://docs.google.com/document/d/1LRErTwookXXIPGnWYodACFOqNaN5BXk99lvyaWnHVSY/edit?usp=sharing)
+- [Thai](https://docs.google.com/document/d/1IZmPnwkokvFqj5VZPzPIKiBmyXKj5lmWPnXyPv2fiPo/edit?usp=sharing)
