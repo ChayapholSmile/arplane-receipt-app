@@ -1,0 +1,11 @@
+set tran1=ชื่อบริษัท
+set tran2=พนักงานเก็บเงิน
+set tran3=หมายเลขใบเสร็จ
+set tran4=ชื่อสินค้า
+set tran5=จำนวน
+set tran6=เพิ่มสินค้าหรือไม่
+set tran7=ราคาต่อชิ้น
+set tran8=รับมา
+set tran9=ทำรายการเสร็จสมบูรณ์
+set tran10=ทอน
+set tran11=ส่วนลด
