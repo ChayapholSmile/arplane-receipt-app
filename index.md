@@ -1,6 +1,19 @@
 # Arplane Receipt 
 - Please edit properties before use
 - Please read down before use
+## Language
+- [English](index.html)
+- [Thai](th.html)
+## Table of contents
+- [Download](#download)
+- [Language Pack](#language-pack-necessary-files)
+  - [English Language](#english-language)
+  - [Thai Language](#thai-language)
+  - [User Manual](#user-manual)
+  - [Support](#support)
+-  [Help](#help)
+   - [How to install Arplane Receipt?](#how-to-install-arplane-receipt)
+   - [How to install language pack?](#how-to-install-language-pack)
 ## Download 
 - App: [Click Here!](https://chayapholsmile.github.io/arplane-receipt-app/thanksfordownload-app.html)
 ## Language Pack (Necessary files)
@@ -31,10 +44,26 @@
 - [App Language](https://chayapholsmile.github.io/arplane-receipt-app/thanksfordownload-th-th.html)
 - [Receipt Language](https://chayapholsmile.github.io/arplane-receipt-app/thanksfordownload-b-th-th.html)
 ## Help
-### How to install Arplane Recipt?
+### How to install Arplane Receipt?
 - <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iNoIkoLDoak?si=vC4RNQ_OvKaeEFIf&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### How to install language pack?
 - <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e1FrNEYo6uU?si=vC4RNQ_OvKaeEFIf&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### User Manual
 - [English](https://docs.google.com/document/d/1LRErTwookXXIPGnWYodACFOqNaN5BXk99lvyaWnHVSY/edit?usp=sharing)
 - [Thai](https://docs.google.com/document/d/1IZmPnwkokvFqj5VZPzPIKiBmyXKj5lmWPnXyPv2fiPo/edit?usp=sharing)
+### Support
+- <form
+  action="https://formspree.io/f/xoqgyrll"
+  method="POST"
+  >
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
