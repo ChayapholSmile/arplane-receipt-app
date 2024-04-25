@@ -1,7 +1,6 @@
 ##### This is translated page
 - Please read carefully
 - Translated page are 91.92% accurated.
-<!DOCTYPE HTML>
 <html lang="th"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
